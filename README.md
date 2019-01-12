@@ -1,2 +1,2 @@
-# adwords-scripts
-Ads Scripts Codes for Audits, Alerts &amp; Management
+# Ads Scripts (formerly AdWords Scripts)
+Some basic Ads Scripts for Audits, Alerts &amp; Management.
