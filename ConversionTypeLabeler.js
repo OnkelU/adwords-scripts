@@ -18,7 +18,7 @@
 * @overview
 *		The script labels your keywords based on the name of the conversion type.
 *		This could be helpful if you have imported conversions e.g. from Google Analytics.
-*       At first it checks whether the label exists or not. If not, then the script add it to your account.
+*   At first it checks whether the label exists or not. If not, then the script add it to your account.
 *		The script checks if a keyword has an conversion with your given CONVERSION_TYPE_NAME,
 *		and not yet your given NEW_KEYWORD_LABEL. If this is the case, the script sets the new
 *		label for this keyword.
